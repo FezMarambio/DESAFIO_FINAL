@@ -1,0 +1,52 @@
+body {
+    font-family: raleway, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    font-family: raleway, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+
+    font-family: raleway, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    font-family: raleway, sans-serif;
+    font-weight: 400;
+    font-style: normal;
+
+    font-family: raleway, sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+
+#Hero-Section {
+    background-image: url("../img/bg-hero.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+}
+
+
+.custom-toggler.navbar-toggler {
+    border-color: #FFFFFF80;
+}
+
+
+.card {
+    width: 100%;
+    margin: auto;
+    border-color: #DDDDDD;
+}
+
+
+
+
+
+.custom-btn.btn-light {
+    width: 7em;
+    font-weight: bold;
+    background-color: #F8F9FA;
+    border-color: #DDDDDD;
+}
